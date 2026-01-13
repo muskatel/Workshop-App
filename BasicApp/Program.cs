@@ -4,12 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        PrintHello();
-        PrintHello("Craig");
+        PrintMessage();
+        PrintMessage("Craig");
     }
 
-    static void PrintHello(string name = "World!")
+    static void PrintMessage(string name = "World!")
     {
         Console.WriteLine("Hello, {name}!");
+        Console.WriteLine("Thank you for using our software ❤️");
     }
 }
