@@ -8,4 +8,4 @@ An example app for the git workshop.
 4. Never commit sensitive data
 
 
-# This app is now cool
+# This app is now super cool
