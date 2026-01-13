@@ -13,4 +13,9 @@ class Program
         Console.WriteLine("Hello, {name}!");
         Console.WriteLine("Thank you for using our software ❤️");
     }
+
+    static void Test()
+    {
+        // TODO: fix this
+    }
 }
